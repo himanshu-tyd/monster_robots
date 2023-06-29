@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap");
+body{
+  background: linear-gradient(to left, rgba(7, 27, 28, 1) 0%,
+  rgba(0, 128, 128, 1) 100%);
+}
+.App {
+  text-align: center;
+  background: linear-gradient(to left, rgba(7, 27, 28, 1) 0%,
+  rgba(0, 128, 128, 1) 100%);
+}
+
+
+h1 {
+  font-family: "Bigelow Rules";
+  text-transform: uppercase;
+  color: #0ccac4;
+  font-size: 4rem;
+} 
